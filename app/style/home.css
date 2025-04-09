@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #090f24;
+}
+
+#category {
+  border: solid black;
+}
+
+.a {
+  color: black !important;
+}
